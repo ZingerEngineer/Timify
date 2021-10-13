@@ -52,8 +52,9 @@ h1 {
   font-family: "Birthstone", cursive;
   font-size: 200px;
   margin: auto;
-  width: fit-content;
-  height: fit-content;
+  width: 500px;
+  padding-top: 170px;
+  height: 215px;
 }
 p {
   font-size: 20px;
@@ -62,4 +63,5 @@ p {
   width: fit-content;
   height: fit-content;
   margin: auto;
+  padding-left: 10px;
 }
